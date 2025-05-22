@@ -1,0 +1,532 @@
+[
+  {
+    "category": "Trending Now",
+    "movies": [
+      {
+        "id": 1,
+        "title": "Orange Is the New Black",
+        "rating": "TV-14",
+        "type": "Netflix Original Series",
+        "isHD": true,
+        "year": 2019,
+        "isSubtitled": true,
+        "tags": ["Exciting", "Raw", "Womwen's Stories"],
+        "warnings": ["Violence", "Substance Use"],
+        "cast": ["Taylor Schilling", "Kate Mulgrew", "Uzo Aduba"],
+        "genres": ["Drama", "Crime", "Comedy"],
+        "description": "The series begins revolving around Piper Chapman (Taylor Schilling), a 33-year-old woman living in New York City who is sentenced to 15 months in Litchfield Penitentiary, a minimum-security women's federal prison in Upstate New York.",
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpr9KHMs2I7XkP_unQaPylALQRx2i3qYLlYSDThFvXO00RMuhvgUGLMxxWVvLbtxbshXrb4_M7dvfYRlXjNP9faRCUm70hiohpbxWb-CE4ecPiXZiT_E7wZRAd3Sa76JVQoeg.webp?r=150",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/thumb1.jpg"
+          },
+          {
+            "title": "Episode 2",
+            "thumbnail": "https://example.com/thumb2.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Forever",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2022,
+        "isSubtitled": true,
+        "tags": ["Fantasy", "Adventure"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Lee Jae-wook", "Go Yoon-jung"],
+        "genres": ["Fantasy", "Romance"],
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUgvAayrGQgb-U2YbKIdZZ9xmGk345Md1iuNsglCEWk-TTJ4hWK4GyKIO3cZC-MordZxgx0PbO7xiRxNDnSvYPEg5Qi2ZTp5TINVaPb2KEtPTlXV7xdpzGsIhMN0d6bSlu2ov1XcPzhklPnzcIoicrSCqqEPxZzzthD-Pw3vDtCype54CtImOoqe8rPe3vZK-GB7Os6reoVvBhId6ceIQ5JNsqsQuw3qb0LHriUA0Pyr3OIwsBz9jwoxnAdQHFK9pHZk.webp?r=069",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Bridgerton",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2019,
+        "isSubtitled": true,
+        "tags": ["Romance", "Yearning"],
+        "warnings": ["Sex", "Nudity"],
+        "cast": ["Phoebe Bridgers", "Rege-Jean Page"],
+        "genres": ["Fantasy", "Adventure"],
+        "thumbnail": "https://www.msureporter.com/wp-content/uploads/2021/01/Bridgerton-Netflix.jpg",
+        "description": "Set in Regency-era England, the series follows the lives and romantic entanglements of the Bridgerton family, with a focus on Daphne Bridgerton's quest for love amidst societal pressures.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/witcher-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "The Witcher",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2019,
+        "isSubtitled": true,
+        "tags": ["Fantasy", "Adventure"],
+        "warnings": ["Violence", "Sexual Content"],
+        "cast": ["Henry Cavill", "Freya Allan"],  
+        "genres": ["Fantasy", "Adventure"],
+        "thumbnail": "https://image.kpopmap.com/2020/11/sweet-home-netflix-cover2.jpg",
+        "description": "Based on the book series, The Witcher follows Geralt of Rivia, a monster hunter navigating a world filled with magic, political intrigue, and dangerous creatures."
+      },
+      {
+        "id": 5,
+        "title": "The Crown",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2016,
+        "isSubtitled": true,
+        "tags": ["Historical", "Drama"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Olivia Colman", "Tobias Menzies"],
+        "genres": ["Biography", "Drama"],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSH6zO2vXnVimnt2PvNVLydX-5_lpMYCrcA&s",
+        "description": "The Crown chronicles the reign of Queen Elizabeth II, exploring the political and personal events that shaped her life and the world during her time on the throne."
+      }
+    ]
+  },
+  {
+    "category": "Top Picks For You",
+    "movies": [
+      {
+        "id": 6,
+        "title": "Crash Landing on You",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2020,
+        "isSubtitled": true,
+        "tags": ["Romantic", "Emotional"],
+        "warnings": ["Mild Violence", "Adult Themes"],
+        "cast": ["Hyun Bin", "Son Ye-jin"],
+        "genres": ["Drama", "Romance"],
+        "thumbnail": "https://occ-0-1348-1347.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeDoqZlOKeALKOTgAbTxBeM6uhHGmHEt-B4tTdRxtJLiyFUGpZk8HAJd2kWOSOg3KoT4fS8yUyN9gDtqNOgYf7xBr8iIRIFXw_4i6smYzMcQdm-SkraAgtWM-kQOCA.jpg?r=080",
+        "description": "A South Korean heiress, Yoon Se-ri, is forced to parachute into North Korea while paragliding. She meets a North Korean officer, Ri Jeong-hyuk, who helps her hide and eventually fall in love.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/crash-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Mask Girl",
+        "rating": "TV-MA",
+        "type": "Limited Series",
+        "isHD": true,
+        "year": 2020,
+        "isSubtitled": true,
+        "tags": ["Intense", "Inspiring"],
+        "warnings": ["Substance Abuse"],
+        "cast": ["Anya Taylor-Joy"],
+        "genres": ["Drama", "Biography"],
+        "thumbnail": "https://www.heavenofhorror.com/wp-content/uploads/2023/07/mask-girl-2023-netflix-1200x676.jpg",
+        "description": "",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/queensgambit-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Money Heist",
+        "rating": "TV-MA",  
+        "type": "Series",
+        "isHD": true,
+        "year": 2017,
+        "isSubtitled": true,
+        "tags": ["Thrilling", "Clever"],
+        "warnings": ["Violence", "Language"],
+        "cast": ["Úrsula Corberó", "Álvaro Morte"],
+        "genres": ["Crime", "Drama"],
+        "thumbnail": "https://i2-prod.belfastlive.co.uk/incoming/article19192080.ece/ALTERNATES/s1200/2_AAAABTkZuZ7z-xQqWl6RTvgXCRTSh_GOBS4Dl14DfGlly3zXc8dwXz67QiDcassgyOF5B-QD3bXuC9f0GKFUS5w-p8VzEYiEKEqybcnZiDiiCriOnMVzje.jpg",
+        "description": "A criminal mastermind, known as 'The Professor', recruits a group of eight robbers to carry out an ambitious plan to rob the Royal Mint of Spain.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/moneyheist-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Little Women",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2022,
+        "isSubtitled": true,
+        "tags": ["Heartwarming", "Family"],
+        "warnings": ["None"],
+        "cast": ["Kim Go-eun", "Nam Ji-hyun"],
+        "genres": ["Drama", "Family"],
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZX2icPTBUHf18WZ934PUwQusHKOvrZw4P-y4ilVRP_t97imOd_M92IWPn6okPCMKNxi_UNb_ugWe-gxnJzVKVOl9qOj4gmrCE4JzltX3_raUe_H4VapF6HLF8hVqX87FbWAwyl1K8l6Zu5AGEFzYYHGPYcSMwbhw1Ov7K3xe4qs.jpg?r=b9f",
+        "description": "A modern adaptation of Louisa May Alcott's classic novel, the series follows the lives of the four March sisters as they navigate love, ambition, and family bonds in contemporary South Korea.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/littlewomen-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Happiness",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2021,
+        "isSubtitled": true,
+        "tags": ["Thrilling", "Suspenseful"],
+        "warnings": ["Violence", "Language"],
+        "cast": ["Park Hyung-sik", "Han Hyo-joo"],
+        "genres": ["Thriller", "Drama"],
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQe0cbqXJ_xX-WJmKzqJv0xtxeJupySGFGQdL94I9Bze_j9eo2zms07pABFlRfgFzNIHudULCHTbxbvWnozUYbpIuGauQM4ivKXU4fULCj52H8MP8sjahjWHjJJHkebiUznCNDgx5_woAxQbfJQm8TC0zprHPszrHcGuw4YwFVH9ctVaqDVEaVeOtUA3TBqPyKlrytZTfhtX7_5cs1Um_xfgsQInS6mtVDmzQuQF55CBxgsqZsEcUKIyeLtaoB6CDahOl9CEuEMaBkpmO6nohOY0rYMurg.jpg?r=33c",
+        "description": "Set in a dystopian future, the series follows a group of residents in an apartment complex who must navigate their relationships and survival amidst a mysterious infectious disease outbreak.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/happiness-ep1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Critically Acclaimed",
+    "movies": [
+      {
+        "id": 11,
+        "title": "The Queen's Gambit",
+        "rating": "TV-MA",
+        "type": "Limited Series",
+        "isHD": true,
+        "year": 2020,
+        "isSubtitled": true,
+        "tags": ["Intense", "Inspiring"],
+        "warnings": ["Substance Abuse"],
+        "cast": ["Anya Taylor-Joy"],
+        "genres": ["Drama", "Biography"],
+        "thumbnail": "https://9meters.com/wp-content/uploads/the-queens-gambit.webp",
+        "description": "Set during the Cold War era, the series follows the life of an orphaned chess prodigy, Beth Harmon, as she rises to the top of the chess world while battling addiction and personal demons.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/queensgambit-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "King Of Boys",
+        "rating": "TV-MA",
+        "type": "Limited Series",
+        "isHD": true,
+        "year": 2018,
+        "isSubtitled": true,
+        "tags": ["Intense", "Inspiring"],
+        "warnings": ["Substance Abuse"],
+        "cast": ["Sola Sobowale", "Deyemi Okanlawon"],
+        "genres": ["Drama", "Biography"],
+        "thumbnail": "https://thelawpress.wordpress.com/wp-content/uploads/2021/09/king-of-boys.jpg?w=512",
+        "description": "A political thriller that follows the story of Eniola Salami, a businesswoman with a checkered past who is determined to take control of the political landscape in Nigeria.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/kingofboys-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Haunting of Hill House",
+        "rating": "TV-MA",
+        "type": "Limited Series",
+        "isHD": true,         
+        "year": 2018,
+        "isSubtitled": true,
+        "tags": ["Intense", "Inspiring"],
+        "warnings": ["Substance Abuse"],
+        "cast": ["Mckenna Grace", "Timothy Hutton"],
+        "genres": ["Drama", "Horror"],
+        "thumbnail": "https://somanyshows.com/wp-content/uploads/2018/10/the-haunting-of-hill-house.jpg",
+        "description": "A modern reimagining of Shirley Jackson's classic novel, the series follows a family as they confront haunting memories of their old home and the terrifying events that drove them from it.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/haunting-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Shrek 2",
+        "rating": "PG", 
+        "type": "Movie",
+        "isHD": true,
+        "year": 2004,
+        "isSubtitled": false,
+        "tags": ["Animated", "Comedy"],
+        "warnings": ["Mild Language"],
+        "cast": ["Mike Myers", "Eddie Murphy"],
+        "genres": ["Animation", "Adventure"],
+        "thumbnail": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSyj0Pajns5IWRm5WqNMPbgGToiMyZ_2BjGsmmn4bE_VFFLNmatXddLkn97KuOgvkFcKXMh8w4Q2iDwm1AC-bwrQoInh1XiVX_qw.jpg?r=e1b",
+        "description": "Shrek and Fiona's honeymoon is interrupted when they are invited to meet Fiona's parents, the King and Queen of Far Far Away. Chaos ensues as Shrek tries to fit into royal life."
+      },
+      {
+        "id": 15,
+        "title": "Age Of Youth",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2016,
+        "isSubtitled": true,
+        "tags": ["Girlhood", "Youth"],
+        "warnings": ["None"],
+        "cast": ["Han Ye-ri", "Han Seung-yeon"],
+        "genres": ["Drama", "Slice of Life"],
+        "thumbnail": "https://occ-0-58-64.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfVbOm2vKGykCJSeBC-QB5vbhV50zv8aEL1lMB_sxvhcDTdGEWXRQVUfBE3h3sFS-5VIaiLooBJV6mTB8pporDss7xk76x8ySPSNo-QUYAqXKmteFFU15sbPBHtebw.jpg?r=89d",
+        "description": "The series follows the lives of five university students who share a house and navigate their friendships, romances, and personal struggles while living together.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/ageofyouth-ep1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Because You Watched Alchemy of Souls",
+    "movies": [
+      {
+        "id": 16,
+        "title": "Arthdal Chronicles",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2019,
+        "isSubtitled": true,
+        "tags": ["Epic", "Mythical"],
+        "warnings": ["Violence"],
+        "cast": ["Song Joong-ki", "Kim Ji-won"],
+        "genres": ["Fantasy", "Adventure"],
+        "thumbnail": "https://occ-0-3844-64.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABXgZZ6kU8y6ehtWI82zEJYmWFbSMS-a308co7JeY1tYCg99xDHxDWASRYQWIvVUBiREb7IjyhHpctsUk__WSG3YYoYI2SOJYTjD1ukjEzR9SY3gQVHL27_yZkBEof7exczK4xYb5uNkMqnkCR30qlQ.jpg?r=77c",
+        "description": "Set in the mythical land of Arth, the series follows the story of a hero who rises to power and the conflicts that arise in a world filled with ancient tribes and mythical creatures.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/arthdal-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "The King's Affection",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2021,
+        "isSubtitled": true,
+        "tags": ["Historical", "Romance"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Park Eun-bin", "Rowoon"],
+        "genres": ["Drama", "Romance"],
+        "thumbnail": "https://occ-0-130-299.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyTlpAmGPde1PzEOVg8DKZjANCOFMaBFXfA31z8XO494CW11lN7I5A0kUV10AJWYWBUjAZuRmVrHJJonFQYDzVlWdMAUuXZ1Xvd0sQUPYG3DV4ZtrXXrQJniUJKafx9n_ffUg.jpg?r=e33",
+        "description": "The King's Affection is a historical romance drama about a man and womman who are forced to switch identities after the death of the crown prince. The story explores themes of love, duty, and sacrifice as they navigate their new lives.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/kingsaffection-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Mr. Queen",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2020,
+        "isSubtitled": true,
+        "tags": ["Comedy", "Historical"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Shin Hye-sun", "Kim Jung-hyun"],
+        "genres": ["Comedy", "Fantasy"],
+        "thumbnail": "https://occ-0-2669-2568.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9JjNqXrCR7T2-sc8QG5UTIHA24Fae6YccVXhJ6Q7FcnGEyGoIoDpXNFS0PCc93AR-ocJJJ9M8L0Oc71FaZwonmZPWKe-icECkl.jpg?r=8ab",
+        "description": "A modern-day chef finds herself trapped in the body of a queen from the Joseon era. As she navigates palace life, she must also find a way to return to her own time.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/mrqueen-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Captivating The King",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2021,
+        "isSubtitled": true,
+        "tags": ["Historical", "Romance"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Song Kang", "Kim Yoo-jung"],
+        "genres": ["Drama", "Romance"],
+        "thumbnail": "https://resizing.flixster.com/xMeDE0vkZPiRMHte-fjAZW0xLpM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26323870_b_h8_ab.jpg",
+        "description": "Set in the Joseon era, the series follows the story of a young man who is sent to the palace to serve as a bodyguard for the king. As he navigates palace politics, he finds himself falling in love with a noblewoman.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/captivating-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "The Tale of Nokdu",
+        "rating": "TV-14",  
+        "type": "Series",
+        "isHD": true,
+        "year": 2019,
+        "isSubtitled": true,
+        "tags": ["Historical", "Romance"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Jang Dong-yoon", "Kim So-hyun"],
+        "genres": ["Drama", "Romance"],
+        "thumbnail": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZRY6urGuElrdK25REMb5pizZzHzMWo_sH3GlWYWE81mVTWMTTkalz993-i5p8fvlj_pergnjaxhXB4Qq-vaXpEK1SyIpPuQ___I.jpg?r=dba",
+        "description": "The Tale of Nokdu is a historical romantic comedy about neezdutz",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/taleofnokdu-ep1.jpg"
+          }
+        ]
+      }
+
+    ]
+  },
+  {
+    "category": "New Releases",
+    "movies": [
+      {
+        "id": 21,
+        "title": "Twenty-Five Twenty-One",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2022,
+        "isSubtitled": true,
+        "tags": ["Heartwarming", "Youth"],
+        "warnings": ["None"],
+        "cast": ["Kim Tae-ri", "Nam Joo-hyuk"],
+        "genres": ["Romance", "Coming-of-age"],
+        "thumbnail": "https://occ-0-8407-1007.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQbgQ9-Yds8daAcrGTcoFR_wrCxnGZF4pTVHiUDw0ZPUtvQe8-sEhQ-6OHnIl_Hhgo9aZGcW4YNTEpjgjdVLfXLtlvr9Xqvid-4pIOtwl7YauzZTVJNsA4qq9v6mFueNm9Er.jpg?r=9c1",
+        "description": "Set in the late 1990s, the series follows the lives of young people who are navigating their dreams and relationships during a time of economic turmoil in South Korea.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/25-21-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Moving",
+        "rating": "TV-14",
+        "type": "Series",
+        "isHD": true,
+        "year": 2023,
+        "isSubtitled": true,
+        "tags": ["Action", "Supernatural"],
+        "warnings": ["Violence"],
+        "cast": ["Han Hyo-joo", "Jo In-sung"],
+        "genres": ["Action", "Drama"],
+        "thumbnail": "https://businessmirror.com.ph/wp-content/uploads/2023/08/D_Moving-Group-Poster-Horizontal.jpg",
+        "description": "Moving is a South Korean drama series that follows the story of a group of people with superhuman abilities who must navigate their powers while dealing with the challenges of everyday life.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/moving-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "The Crown",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2016,
+        "isSubtitled": true,
+        "tags": ["Historical", "Drama"],
+        "warnings": ["Mild Violence"],
+        "cast": ["Olivia Colman", "Tobias Menzies"],
+        "genres": ["Biography", "Drama"],
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXfdWYf6jKxeWfc001lYCsqTwstNB6uLLtodaM_m8kmC1U8kSKxlGI6RViiCBCtq6VQ7RX5ZCmfC-xLTYYfqkTKTG98kGo5z7k3WfB9mELIx5R5oWb88G22_jr_rQ8dC1qPzEA.webp?r=8c1",
+        "description": "The Crown chronicles the reign of Queen Elizabeth II, exploring the political and personal events that shaped her life and the world during her time on the throne.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/crown-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Black Mirror",
+        "rating": "TV-MA",
+        "type": "Series",
+        "isHD": true,
+        "year": 2011,
+        "isSubtitled": true,
+        "tags": ["Thrilling", "Dystopian"],
+        "warnings": ["Violence", "Language"],
+        "cast": ["Daniel Kaluuya", "Jessica Brown Findlay"],
+        "genres": ["Drama", "Sci-Fi"],
+        "thumbnail": "https://media.c5n.com/p/647701119cda57630a6938e44743080c/adjuntos/326/imagenes/000/230/0000230499/790x0/smart/netflix-black-mirror.jpg",
+        "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "thumbnail": "https://example.com/blackmirror-ep1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "It's What's Inside",
+        "rating": "TV-MA",
+        "type": "Movie",
+        "isHD": true,
+        "year": 2023,
+        "isSubtitled": true,
+        "tags": ["Thrilling", "Suspenseful"],
+        "warnings": ["Violence", "Language"],
+        "cast": ["Jessica Henwick", "John Boyega"],
+        "genres": ["Thriller", "Drama"],
+        "thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5Pofg5doxDRJrfglfSpHkOxx0AyiUmfIlouBeYjzIs4jWZ6kpxzesQvV0UIpijNBv2F7k_xajCMkTLTN4sSu57K8PPLr6pJVfCcVh57Sun2uPBd2Y1hCiCmbEHfg86skCGaw.webp?r=cda",
+        "description": "A psychological thriller that follows group of friends who find themselves trapped in a remote cabin during a storm. As tensions rise, secrets are revealed, and they must confront their darkest fears."
+      }
+    ]
+  }
+]
